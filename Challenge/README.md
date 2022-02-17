@@ -43,7 +43,7 @@ The second important metric is to identify the employees for mentorship program.
 ![retires by position](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/1c041147ece5853d35d9f614719d071eff9a0837/Challenge/Resources/Mentor.png)k87ujmu87ju788jm7ujnh
 
 ## **Summary**
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+***How many roles will need to be filled as the "silver tsunami" begins to make an impact?***
 
 Following summary provides a snapshot of how many roles need to be filles as the "silver tsunami" begins:
  
@@ -52,10 +52,8 @@ Following summary provides a snapshot of how many roles need to be filles as the
 About 50K senior staff will be retiring. In total, the number of employees retiring is ~70K
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+***Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?***
 
-This answer requires a new query, one to compile the count of all the eligible Mentors into a table grouped by title, to make an easy comparison to those employees who are retiring and will need their spots filled:
+Following summarry clearly shows us that there are not enough employees eligible for mentorship to replace potential retirees:
 
-eligible_mentors
-
-Comparing this table to the more accurate retirement table, you can see that in a worst case scenario, where all of the retirement eligible employees quit at the same time, the eligible mentors could take on new hires at around a 2:1 to 3:1 ratio for senior staff and senior engineers. The ratios then jump quite drastically to around 14:1 for engineers, 13:1 for staff, 20:1 for technique leaders, and finally 8:1 for assistant engineers. This, however, is highly unlikely to occur, and with the given mentors, Pewlett-Hackard should have more than enough mentors to guide any new hires.
+![Mentorship Summary](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/f55f314257f38864974faf817fcaec7410ccb7d5/Challenge/Resources/Mentorship_by_Title.png)
