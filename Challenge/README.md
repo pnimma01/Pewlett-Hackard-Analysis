@@ -36,11 +36,11 @@ In order to determine the number of employees that are ready to retire and their
 ## **Results**
 The first important metric to present is to determine how many employees are in a position to retire? 
 
-![retires by position](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
+![retires by position](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/d84cb70f45cb029504dbf35df792162d29677922/Challenge/Resources/Retiring_Title_Count.png)
 
 The second important metric is to identify the employees for mentorship program. Following summary shows the mentorship summary data:
 
-![retires by position](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/1c041147ece5853d35d9f614719d071eff9a0837/Challenge/Resources/Mentor.png)k87ujmu87ju788jm7ujnh
+![retires by position](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/1c041147ece5853d35d9f614719d071eff9a0837/Challenge/Resources/Mentor.png)
 
 ## **Summary**
 ***How many roles will need to be filled as the "silver tsunami" begins to make an impact?***
