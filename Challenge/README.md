@@ -18,16 +18,20 @@ We will be gathering the required data by querying a database using SQL. Each of
 In order to determine the number of employees that are ready to retire and their titles, we will be following a step by step process to create followinf required summaries:
 
     a. Create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
-    ![Average Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
+    
+    ![Retirement Data](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/61c95ed8cd09c32d92f7382b02bc88075345d82e/Challenge/Resources/Retirement_Titles.png)
 
     b. Because some employees may have multiple titles in the database—for example, due to promotions— we need to create a table that contains the most recent title of each employee.
-    ![Average Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
+    
+    ![Retirees - Clean](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/61c95ed8cd09c32d92f7382b02bc88075345d82e/Challenge/Resources/Emp_Retirement_Titles_Clean.png)
 
     c. Finally, create a final table that has the number of retirement-age employees grouped by most recent job title.
-    ![Average Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
+    
+    ![Retiree](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/61c95ed8cd09c32d92f7382b02bc88075345d82e/Challenge/Resources/Retiring_Title_Count.png)
 
 2. Determine the employees eligible for the Mentorship Program.
     a. Create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+    ![Mentorship](https://github.com/pnimma01/Pewlett-Hackard-Analysis/blob/61c95ed8cd09c32d92f7382b02bc88075345d82e/Challenge/Resources/Mentor.png)
 
 ## **Results**
 The first important metric to present is to determine how many employees are in a position to retire? 
